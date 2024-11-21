@@ -1,0 +1,8 @@
+đẩy code từ local lên remote
+
+
+
+
+repository local:  souce code trên máy tính
+
+repository remote: souce lưu trên gibhub
